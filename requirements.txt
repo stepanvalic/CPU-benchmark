@@ -1,0 +1,3 @@
+cpuinfo
+psutil
+matplotlib
